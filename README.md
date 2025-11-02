@@ -1,6 +1,6 @@
 Made By:
-Lucas Wehr
-Elliot Small
+Lucas Wehr,
+Elliot Small,
 Simon Anderson
 ------------------------------------------
 Welcome to IMAGINAITON STATION, your new FAVORITE command line art canvas!
