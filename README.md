@@ -13,6 +13,7 @@ You will first be prompted to either add a shape, a line, or color a single cell
 - To draw on the canvas, you can move your cursor around, by using the W, A, S, and D keys.
 
 The inputs go as follows:
+
 W = Up
 A = Left
 S = Down
@@ -22,7 +23,9 @@ P = Place
 M = Marker
 L = Load Canvas
 U = Upload Canvas
+
 The colors also go as follows:
+
 1. Red
 2. Yellow
 3. Green
