@@ -14,15 +14,15 @@ You will first be prompted to either add a shape, a line, or color a single cell
 
 The inputs go as follows:
 
-W = Up
-A = Left
-S = Down
-D = Right
-Q = Exit
-P = Place
-M = Marker
-L = Load Canvas
-U = Upload Canvas
+- W = Up
+- A = Left
+- S = Down
+- D = Right
+- Q = Exit
+- P = Place
+- M = Marker
+- L = Load Canvas
+- U = Upload Canvas
 
 The colors also go as follows:
 
