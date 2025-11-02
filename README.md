@@ -11,6 +11,7 @@ You will first be prompted to either add a shape, a line, or color a single cell
 - If you decide to fill a single cell, you wil use your cursor to select a singular cell.
 - If you say no to all three prompts, then the program will finish and exit.
 - To draw on the canvas, you can move your cursor around, by using the W, A, S, and D keys.
+
 The inputs go as follows:
 W = Up
 A = Left
